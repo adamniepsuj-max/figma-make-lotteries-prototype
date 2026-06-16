@@ -1,0 +1,431 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1,
+    "total": 1,
+    "workspacePrefix": "/Users/aivanauskaite/Documents/Codex/Lotteries/Figma Make Lotteries prototype"
+  },
+  "1 debug pnpm:package-manifest": {
+    "initial": {
+      "name": "@figma/my-make-file",
+      "private": true,
+      "version": "0.0.1",
+      "type": "module",
+      "scripts": {
+        "dev": "vite --host 127.0.0.1",
+        "build": "vite build",
+        "preview": "vite preview --host 127.0.0.1"
+      },
+      "dependencies": {
+        "@emotion/react": "11.14.0",
+        "@emotion/styled": "11.14.1",
+        "@mui/icons-material": "7.3.5",
+        "@mui/material": "7.3.5",
+        "@popperjs/core": "2.11.8",
+        "@radix-ui/react-accordion": "1.2.3",
+        "@radix-ui/react-alert-dialog": "1.1.6",
+        "@radix-ui/react-aspect-ratio": "1.1.2",
+        "@radix-ui/react-avatar": "1.1.3",
+        "@radix-ui/react-checkbox": "1.1.4",
+        "@radix-ui/react-collapsible": "1.1.3",
+        "@radix-ui/react-context-menu": "2.2.6",
+        "@radix-ui/react-dialog": "1.1.6",
+        "@radix-ui/react-dropdown-menu": "2.1.6",
+        "@radix-ui/react-hover-card": "1.1.6",
+        "@radix-ui/react-label": "2.1.2",
+        "@radix-ui/react-menubar": "1.1.6",
+        "@radix-ui/react-navigation-menu": "1.2.5",
+        "@radix-ui/react-popover": "1.1.6",
+        "@radix-ui/react-progress": "1.1.2",
+        "@radix-ui/react-radio-group": "1.2.3",
+        "@radix-ui/react-scroll-area": "1.2.3",
+        "@radix-ui/react-select": "2.1.6",
+        "@radix-ui/react-separator": "1.1.2",
+        "@radix-ui/react-slider": "1.2.3",
+        "@radix-ui/react-slot": "1.1.2",
+        "@radix-ui/react-switch": "1.1.3",
+        "@radix-ui/react-tabs": "1.1.3",
+        "@radix-ui/react-toggle-group": "1.1.2",
+        "@radix-ui/react-toggle": "1.1.2",
+        "@radix-ui/react-tooltip": "1.1.8",
+        "canvas-confetti": "1.9.4",
+        "class-variance-authority": "0.7.1",
+        "clsx": "2.1.1",
+        "cmdk": "1.1.1",
+        "date-fns": "3.6.0",
+        "embla-carousel-react": "8.6.0",
+        "input-otp": "1.4.2",
+        "lucide-react": "0.487.0",
+        "motion": "12.23.24",
+        "next-themes": "0.4.6",
+        "react-day-picker": "8.10.1",
+        "react-dnd": "16.0.1",
+        "react-dnd-html5-backend": "16.0.1",
+        "react": "18.3.1",
+        "react-dom": "18.3.1",
+        "react-hook-form": "7.55.0",
+        "react-popper": "2.3.0",
+        "react-resizable-panels": "2.1.7",
+        "react-responsive-masonry": "2.7.1",
+        "react-router": "7.13.0",
+        "react-slick": "0.31.0",
+        "recharts": "2.15.2",
+        "sonner": "2.0.3",
+        "tailwind-merge": "3.2.0",
+        "tw-animate-css": "1.3.8",
+        "vaul": "1.1.2"
+      },
+      "devDependencies": {
+        "@tailwindcss/vite": "4.1.12",
+        "@vitejs/plugin-react": "4.7.0",
+        "tailwindcss": "4.1.12",
+        "vite": "6.3.5"
+      },
+      "pnpm": {
+        "overrides": {
+          "vite": "6.3.5"
+        }
+      }
+    },
+    "prefix": "/Users/aivanauskaite/Documents/Codex/Lotteries/Figma Make Lotteries prototype"
+  },
+  "2 debug pnpm:context": {
+    "currentLockfileExists": false,
+    "storeDir": "/Users/aivanauskaite/.pnpm-store/v3",
+    "virtualStoreDir": "/Users/aivanauskaite/Documents/Codex/Lotteries/Figma Make Lotteries prototype/node_modules/.pnpm"
+  },
+  "3 debug pnpm:stage": {
+    "prefix": "/Users/aivanauskaite/Documents/Codex/Lotteries/Figma Make Lotteries prototype",
+    "stage": "resolution_started"
+  },
+  "4 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@tailwindcss%2Fvite"
+  },
+  "5 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@vitejs%2Fplugin-react"
+  },
+  "6 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/tailwindcss"
+  },
+  "7 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/vite"
+  },
+  "8 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@emotion%2Freact"
+  },
+  "9 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@emotion%2Fstyled"
+  },
+  "10 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@mui%2Ficons-material"
+  },
+  "11 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@mui%2Fmaterial"
+  },
+  "12 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@popperjs%2Fcore"
+  },
+  "13 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@radix-ui%2Freact-accordion"
+  },
+  "14 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@radix-ui%2Freact-alert-dialog"
+  },
+  "15 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@radix-ui%2Freact-aspect-ratio"
+  },
+  "16 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@radix-ui%2Freact-avatar"
+  },
+  "17 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@radix-ui%2Freact-checkbox"
+  },
+  "18 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@radix-ui%2Freact-collapsible"
+  },
+  "19 debug pnpm:request-retry": {
+    "attempt": 1,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 10000,
+    "url": "https://registry.npmjs.org/@radix-ui%2Freact-context-menu"
+  },
+  "20 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@tailwindcss%2Fvite"
+  },
+  "21 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@vitejs%2Fplugin-react"
+  },
+  "22 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/tailwindcss"
+  },
+  "23 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/vite"
+  },
+  "24 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@emotion%2Freact"
+  },
+  "25 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@emotion%2Fstyled"
+  },
+  "26 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@mui%2Ficons-material"
+  },
+  "27 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@mui%2Fmaterial"
+  },
+  "28 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@popperjs%2Fcore"
+  },
+  "29 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@radix-ui%2Freact-accordion"
+  },
+  "30 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@radix-ui%2Freact-alert-dialog"
+  },
+  "31 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@radix-ui%2Freact-aspect-ratio"
+  },
+  "32 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@radix-ui%2Freact-avatar"
+  },
+  "33 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@radix-ui%2Freact-checkbox"
+  },
+  "34 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@radix-ui%2Freact-collapsible"
+  },
+  "35 debug pnpm:request-retry": {
+    "attempt": 2,
+    "error": {
+      "code": "ERR_INVALID_THIS"
+    },
+    "maxRetries": 2,
+    "method": "GET",
+    "timeout": 60000,
+    "url": "https://registry.npmjs.org/@radix-ui%2Freact-context-menu"
+  },
+  "36 error pnpm": {
+    "code": "ERR_PNPM_META_FETCH_FAIL",
+    "attempts": 1,
+    "pkgsStack": [],
+    "err": {
+      "name": "pnpm",
+      "message": "GET https://registry.npmjs.org/@tailwindcss%2Fvite: Value of \"this\" must be of type URLSearchParams",
+      "code": "ERR_PNPM_META_FETCH_FAIL",
+      "stack": "pnpm: GET https://registry.npmjs.org/@tailwindcss%2Fvite: Value of \"this\" must be of type URLSearchParams\n    at RetryOperation._fn (/private/tmp/pnpm.cjs:84827:18)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at runNextTicks (node:internal/process/task_queues:69:3)\n    at listOnTimeout (node:internal/timers:567:9)\n    at process.processTimers (node:internal/timers:541:7)"
+    }
+  }
+}
