@@ -1,0 +1,1 @@
+When I attach figma designs to my prompts, make sure that the visual parity of the prototype result is always 1:1. The prototype must match EXACTLY the Figma desgins
